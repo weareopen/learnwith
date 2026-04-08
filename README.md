@@ -20,6 +20,7 @@ openly available. Courses include:
 
 - **[Reframing Recognition](https://github.com/weareopen/learnwith/blob/main/courses/Reframing%20Recognition%20(badges%20course%2C%20March%202023).pdf)** — Going beyond microcredentialing to embrace Open Recognition
 - **[Feminism is for Everybody, Especially Educators](https://github.com/weareopen/learnwith/blob/main/courses/Course%20-%20Feminism%20is%20for%20everybody%2C%20especially%20educators.pdf)** — An introduction to feminist pedagogy
+- **[Feminism is for Everybody, More Equal Workplaces](https://github.com/weareopen/learnwith/blob/main/courses/ORE-feminist-workplaces-talk.pdf)** — An introduction to feminist pedagogy
 - **[What We Talk About When We Talk About Open](https://github.com/weareopen/learnwith/blob/main/courses/What%20we%20talk%20about%20when%20we%20talk%20about%20open%20v0.7%20(June%202022%20for%20Sport%20England).pdf)** — Helping you and your organisation work more openly
 - **[What We Talk About When We Talk About Open (Greenpeace version)](https://github.com/weareopen/learnwith/blob/main/courses/What%20we%20talk%20about%20when%20we%20talk%20about%20open%20v0.5%20(Sept%202020%20Greenpeace).pdf)** — Helping you and your organisation work more openly
 - **[How to Unf\*ck Your Organisation](https://github.com/weareopen/learnwith/blob/main/courses/How%20to%20unf_ck%20your%20org.pdf)** — Untangling organisational spaghetti with actionable steps
