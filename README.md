@@ -40,16 +40,17 @@ facilitation and organisational work. Templates include:
 - **[NOISE Model](https://github.com/weareopen/learnwith/blob/main/templates/NOISE-Model.png)** — A needs-focused alternative to SWOT analysis
 - **[Open Recognition Canvas](https://github.com/weareopen/learnwith/blob/main/templates/Open-Recognition-canvas.pdf)** — A canvas for planning open recognition approaches
 - **[Opportunity Prioritisation](https://github.com/weareopen/learnwith/blob/main/templates/Opportunity-Prioritisation-01.png)** — Decide whether opportunities are worth your time and resources ([stage 2](https://github.com/weareopen/learnwith/blob/main/templates/Opportunity-Prioritisation-02.png))
-- **[Plane of Recognition](https://github.com/weareopen/learnwith/blob/main/templates/OPlane-of-Recognition.png)** — See where your badges fall on the plane of recognition.
+- **[Persona Spectrum](https://github.com/weareopen/learnwith/blob/main/templates/persona-spectrum.png)** — Understand the range of people your work needs to serve
+- **[Plane of Recognition](https://github.com/weareopen/learnwith/blob/main/templates/Plane-of-Recognition.png)** — See where your badges fall on the plane of recognition.
+- **[Christmas Retrospective](https://github.com/weareopen/learnwith/blob/main/templates/Xmas-retro.png)** — A silly winter themed end-of-year team retrospective
 - **[Sailboat Retrospective](https://github.com/weareopen/learnwith/blob/main/templates/Sailboat-Retrospective.png)** — A visual retrospective for mid-project or end-of-project reflection
 - **[Stakeholder Mapping](https://github.com/weareopen/learnwith/blob/main/templates/Stakeholder-mapping.png)** — Map and understand your stakeholders
 - **[Starfish Model](https://github.com/weareopen/learnwith/blob/main/templates/Starfish-Model.png)** — Reflect and figure out what makes you and your team happy and productive
+- **[Systems Convening](https://github.com/weareopen/learnwith/blob/main/templates/systems-convening.png)** — A model for understanding systems change and convening roles
 - **[Theory of Change](https://github.com/weareopen/learnwith/blob/main/templates/Theory-of-Change.png)** — Map out how your work creates the change you want to see
 - **[Traffic Light](https://github.com/weareopen/learnwith/blob/main/templates/Traffic-light.png)** — A simple status-checking tool for structured feedback
-- **[Christmas Retrospective](https://github.com/weareopen/learnwith/blob/main/templates/Xmas-retro.png)** — A silly winter themed end-of-year team retrospective
-- **[Persona Spectrum](https://github.com/weareopen/learnwith/blob/main/templates/persona-spectrum.png)** — Understand the range of people your work needs to serve
-- **[Systems Convening](https://github.com/weareopen/learnwith/blob/main/templates/systems-convening.png)** — A model for understanding systems change and convening roles
 - **[Two Loops Model](https://github.com/weareopen/learnwith/blob/main/templates/two-loops-model.png)** — Visualise how innovation and systems change happen over time
+- **[Unf•ck Your Org Ikigai](https://github.com/weareopen/learnwith/blob/main/templates/Ikigai-How-to-Unf*ck.pdf)** — Visualise how innovation and systems change happen over time
 
 ---
 
