@@ -40,6 +40,7 @@ facilitation and organisational work. Templates include:
 - **[NOISE Model](https://github.com/weareopen/learnwith/blob/main/templates/NOISE-Model.png)** — A needs-focused alternative to SWOT analysis
 - **[Open Recognition Canvas](https://github.com/weareopen/learnwith/blob/main/templates/Open-Recognition-canvas.pdf)** — A canvas for planning open recognition approaches
 - **[Opportunity Prioritisation](https://github.com/weareopen/learnwith/blob/main/templates/Opportunity-Prioritisation-01.png)** — Decide whether opportunities are worth your time and resources ([stage 2](https://github.com/weareopen/learnwith/blob/main/templates/Opportunity-Prioritisation-02.png))
+- **[Plane of Recognition](https://github.com/weareopen/learnwith/blob/main/templates/OPlane-of-Recognition.png)** — See where your badges fall on the plane of recognition.
 - **[Sailboat Retrospective](https://github.com/weareopen/learnwith/blob/main/templates/Sailboat-Retrospective.png)** — A visual retrospective for mid-project or end-of-project reflection
 - **[Stakeholder Mapping](https://github.com/weareopen/learnwith/blob/main/templates/Stakeholder-mapping.png)** — Map and understand your stakeholders
 - **[Starfish Model](https://github.com/weareopen/learnwith/blob/main/templates/Starfish-Model.png)** — Reflect and figure out what makes you and your team happy and productive
