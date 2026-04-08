@@ -30,6 +30,7 @@ openly available. Courses include:
 Visual template images for WAO's tools and approaches — ready to use in your own
 facilitation and organisational work. Templates include:
 
+- **[Architecture of Participation (AoP) Diagnostic](https://github.com/weareopen/learnwith/blob/main/templates/AoP-template.xlsx)** — A spreadsheet we built to help organisations think about their AoP and identify where we should focus.
 - **[Audience Ikigai](https://github.com/weareopen/learnwith/blob/main/templates/Audience-Ikigai.png)** — Our very cool and innovative Ikigai remix to help you figure out communications for different audiences
 - **[Audience and Influence Map](https://github.com/weareopen/learnwith/blob/main/templates/Audience-and-influence-map.png)** — Map out who your audiences are and how to reach them
 - **[Community Canvas](https://github.com/weareopen/learnwith/blob/main/templates/Community-Canvas.png)** — Think through how people interact in a community in a positive and sustainable way
