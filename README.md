@@ -18,24 +18,32 @@ unless otherwise stated.
 PDF versions of WAO's free email-based courses, preserved here so they remain
 openly available. Courses include:
 
-- **[Reframing Recognition](https://github.com/weareopen/learnwith/blob/main/courses/Reframing%20Recognition%20(badges%20course%2C%20March%202023).pdf)** — Going beyond microcredentialing to embrace Open Recognition
+- **[AI Literacies for Open Educators](https://github.com/weareopen/learnwith/blob/main/courses/AI-Literacies-Open-Education-Week-2025.pdf)** — A session from Open Education Week 2025 exploring AI literacies, digital literacies, and their application in open education
+- **[Badge Bootcamp v2](https://github.com/weareopen/learnwith/blob/main/courses/Badge-Bootcamp-v2.pdf)** — An email course covering everything you need to know to get started with Open Badges, digital badges, and microcredentials
+- **[Badges E-book](https://github.com/weareopen/learnwith/blob/main/courses/Badges-e-book.pdf)** — A guide to Digital Open Badges: what they are, where they came from, and how to make them
+- **[Badges for Feminist Pedagogy](https://github.com/weareopen/learnwith/blob/main/courses/Badges-Feminist-pedagogy.pdf)** — Badge descriptions and criteria for the Feminism is for Everybody course (head, heart, hand, and finisher badges)
 - **[Feminism is for Everybody, Especially Educators](https://github.com/weareopen/learnwith/blob/main/courses/Course%20-%20Feminism%20is%20for%20everybody%2C%20especially%20educators.pdf)** — An introduction to feminist pedagogy
 - **[Feminism is for Everybody, More Equal Workplaces](https://github.com/weareopen/learnwith/blob/main/courses/ORE-feminist-workplaces-talk.pdf)** — An introduction to feminist pedagogy
-- **[What We Talk About When We Talk About Open](https://github.com/weareopen/learnwith/blob/main/courses/What%20we%20talk%20about%20when%20we%20talk%20about%20open%20v0.7%20(June%202022%20for%20Sport%20England).pdf)** — Helping you and your organisation work more openly
-- **[What We Talk About When We Talk About Open (Greenpeace version)](https://github.com/weareopen/learnwith/blob/main/courses/What%20we%20talk%20about%20when%20we%20talk%20about%20open%20v0.5%20(Sept%202020%20Greenpeace).pdf)** — Helping you and your organisation work more openly
+- **[How to Build a Community of Practice](https://github.com/weareopen/learnwith/blob/main/courses/How-to-build-a-CoP.pdf)** — A practical ebook guide to building communities of practice
+- **[How to Set Up a Worker Co-op](https://github.com/weareopen/learnwith/blob/main/courses/How-to-set-up-a-worker-co-op.pdf)** — An email course from workers.coop on the essentials of worker-owned businesses, governance, and registration
 - **[How to Unf\*ck Your Organisation](https://github.com/weareopen/learnwith/blob/main/courses/How%20to%20unf_ck%20your%20org.pdf)** — Untangling organisational spaghetti with actionable steps
 - **[Open Innovation in Practice talk](https://github.com/weareopen/learnwith/blob/main/courses/Open-Innovation-in-Practice.pdf)** — Untangling organisational spaghetti with actionable steps
+- **[Reframing Recognition](https://github.com/weareopen/learnwith/blob/main/courses/Reframing%20Recognition%20(badges%20course%2C%20March%202023).pdf)** — Going beyond microcredentialing to embrace Open Recognition
 - **[The 7 Habits of Highly Successful Online Meetings](https://github.com/weareopen/learnwith/blob/main/courses/7%20Habits%20of%20Highly%20Successful%20Virtual%20Meetings%20-%20email%20course%20(April%202020).pdf)** — Improving your online meeting experience
-- **[How to Build a Community of Practice](https://github.com/weareopen/learnwith/blob/main/courses/How-to-build-a-CoP.pdf)** — A practical ebook guide to building communities of practice
+- **[The Tao of WAO](https://github.com/weareopen/learnwith/blob/main/courses/Tao-of-WAO.pdf)** — A presentation describing the natural way of We Are Open Co-op, covering technology, society, and the co-op's values
 - **Speaking and Facilitation: Tips & Tricks** — A five-part course on effective speaking and facilitation: [Part 1](https://github.com/weareopen/learnwith/blob/main/courses/Speaking%20and%20Facilitation_%20Tips%20%26%20Tricks_%20Part%201.pdf) · [Part 2](https://github.com/weareopen/learnwith/blob/main/courses/Speaking%20and%20Facilitation_%20Tips%20%26%20Tricks_%20Part%202.pdf) · [Part 3](https://github.com/weareopen/learnwith/blob/main/courses/Speaking%20and%20Facilitation_%20Tips%20%26%20Tricks_%20Part%203.pdf) · [Part 4](https://github.com/weareopen/learnwith/blob/main/courses/Speaking%20and%20Facilitation_%20Tips%20%26%20Tricks_%20Part%204.pdf) · [Part 5](https://github.com/weareopen/learnwith/blob/main/courses/Speaking%20and%20Facilitation_%20Tips%20%26%20Tricks_%20Part%205.pdf)
+- **[What We Talk About When We Talk About Open](https://github.com/weareopen/learnwith/blob/main/courses/What%20we%20talk%20about%20when%20we%20talk%20about%20open%20v0.7%20(June%202022%20for%20Sport%20England).pdf)** — Helping you and your organisation work more openly
+- **[What We Talk About When We Talk About Open (Greenpeace version)](https://github.com/weareopen/learnwith/blob/main/courses/What%20we%20talk%20about%20when%20we%20talk%20about%20open%20v0.5%20(Sept%202020%20Greenpeace).pdf)** — Helping you and your organisation work more openly
 
 ### `/templates`
 Visual template images for WAO's tools and approaches — ready to use in your own
 facilitation and organisational work. Templates include:
 
 - **[Architecture of Participation (AoP) Diagnostic](https://github.com/weareopen/learnwith/blob/main/templates/AoP-template.xlsx)** — A spreadsheet we built to help organisations think about their AoP and identify where we should focus.
-- **[Audience Ikigai](https://github.com/weareopen/learnwith/blob/main/templates/Audience-Ikigai.png)** — Our very cool and innovative Ikigai remix to help you figure out communications for different audiences
 - **[Audience and Influence Map](https://github.com/weareopen/learnwith/blob/main/templates/Audience-and-influence-map.png)** — Map out who your audiences are and how to reach them
+- **[Audience Ikigai](https://github.com/weareopen/learnwith/blob/main/templates/Audience-Ikigai.png)** — Our very cool and innovative Ikigai remix to help you figure out communications for different audiences
+- **[Big Reveal Template](https://github.com/weareopen/learnwith/blob/main/templates/TEMPLATE%20Big%20Reveal.xlsx)** — A group activity spreadsheet with prompts for collaborative ice-breaking or team reflection
+- **[Christmas Retrospective](https://github.com/weareopen/learnwith/blob/main/templates/Xmas-retro.png)** — A silly winter themed end-of-year team retrospective
 - **[Community Canvas](https://github.com/weareopen/learnwith/blob/main/templates/Community-Canvas.png)** — Think through how people interact in a community in a positive and sustainable way
 - **[Defining the Cast](https://github.com/weareopen/learnwith/blob/main/templates/Defining%20the%20Cast%20%5BTEMPLATE%5D.png)** — Step into the shoes of your users and stakeholders
 - **[Eisenhower Matrix](https://github.com/weareopen/learnwith/blob/main/templates/Eisenhower-Matrix.png)** — Prioritise tasks by urgency and importance
@@ -45,8 +53,9 @@ facilitation and organisational work. Templates include:
 - **[Opportunity Prioritisation](https://github.com/weareopen/learnwith/blob/main/templates/Opportunity-Prioritisation-01.png)** — Decide whether opportunities are worth your time and resources ([stage 2](https://github.com/weareopen/learnwith/blob/main/templates/Opportunity-Prioritisation-02.png))
 - **[Persona Spectrum](https://github.com/weareopen/learnwith/blob/main/templates/persona-spectrum.png)** — Understand the range of people your work needs to serve
 - **[Plane of Recognition](https://github.com/weareopen/learnwith/blob/main/templates/Plane-of-Recognition.png)** — See where your badges fall on the plane of recognition.
-- **[Christmas Retrospective](https://github.com/weareopen/learnwith/blob/main/templates/Xmas-retro.png)** — A silly winter themed end-of-year team retrospective
+- **[S.M.A.R.T Goals Template](https://github.com/weareopen/learnwith/blob/main/templates/TEMPLATE%20S.M.A.R.T%20Goals.xlsx)** — A structured spreadsheet for setting Specific, Measurable, Achievable, Relevant, and Time-bound goals
 - **[Sailboat Retrospective](https://github.com/weareopen/learnwith/blob/main/templates/Sailboat-Retrospective.png)** — A visual retrospective for mid-project or end-of-project reflection
+- **[Several WAO Tools & Approaches](https://github.com/weareopen/learnwith/blob/main/templates/Several-WAO-tools-approaches.pdf)** — A bundled PDF of WAO's visual templates including MoSCoW, NOISE, Eisenhower Matrix, Stakeholder Mapping, Community Canvas, and more
 - **[Stakeholder Mapping](https://github.com/weareopen/learnwith/blob/main/templates/Stakeholder-mapping.png)** — Map and understand your stakeholders
 - **[Starfish Model](https://github.com/weareopen/learnwith/blob/main/templates/Starfish-Model.png)** — Reflect and figure out what makes you and your team happy and productive
 - **[Systems Convening](https://github.com/weareopen/learnwith/blob/main/templates/systems-convening.png)** — A model for understanding systems change and convening roles
@@ -54,6 +63,7 @@ facilitation and organisational work. Templates include:
 - **[Traffic Light](https://github.com/weareopen/learnwith/blob/main/templates/Traffic-light.png)** — A simple status-checking tool for structured feedback
 - **[Two Loops Model](https://github.com/weareopen/learnwith/blob/main/templates/two-loops-model.png)** — Visualise how innovation and systems change happen over time
 - **[Unf•ck Your Org Ikigai](https://github.com/weareopen/learnwith/blob/main/templates/Ikigai-How-to-Unf*ck.pdf)** — Visualise how innovation and systems change happen over time
+- **[Workshop Calculators](https://github.com/weareopen/learnwith/blob/main/templates/workshop-calculators.xlsx)** — Cost calculators for user research, events, and workshops, with break-even analysis
 
 ---
 
