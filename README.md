@@ -65,6 +65,9 @@ facilitation and organisational work. Templates include:
 - **[Unf•ck Your Org Ikigai](https://github.com/weareopen/learnwith/blob/main/templates/Ikigai-How-to-Unf*ck.pdf)** — Visualise how innovation and systems change happen over time
 - **[Workshop Calculators](https://github.com/weareopen/learnwith/blob/main/templates/workshop-calculators.xlsx)** — Cost calculators for user research, events, and workshops, with break-even analysis
 
+### `/images`
+Mostly badges that we used in courses or with clients, but also a few images for the wiki and some branding from feminist pedagogy course.
+
 ---
 
 ## 📖 Wiki
