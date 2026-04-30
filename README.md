@@ -1,5 +1,7 @@
 # Learn with WAO
 
+![Screenshot of Learn with WAO](/images/learnwith-screenshot.png)
+
 This repository archives the resources, tools, courses, and templates from 
 [Learn with We Are Open Co-op](https://web.archive.org/web/20260314221940/https://learnwith.weareopen.coop/) (Wayback Machine link).
 
