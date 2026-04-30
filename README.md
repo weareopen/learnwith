@@ -1,7 +1,7 @@
 # Learn with WAO
 
 This repository archives the resources, tools, courses, and templates from 
-[Learn with We Are Open Co-op](https://web.archive.org/web/20260314221940/https://learnwith.weareopen.coop/).
+[Learn with We Are Open Co-op](https://web.archive.org/web/20260314221940/https://learnwith.weareopen.coop/) (Wayback Machine link).
 
 After 10 years of creative collaboration, We Are Open Co-op (WAO) is closing on
 1st May 2026. This repo ensures that everything we built remains free, open, and
