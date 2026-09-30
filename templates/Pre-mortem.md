@@ -33,5 +33,3 @@ The last thing to do is to think through how to manage these risks to the projec
 - **Mitigating actions**: if the risk starts happening, what can we do to lessen its impact?
 
 Do one type of risk at a time, and use different coloured sticky notes for each. Allow time at the end to change the colour of a sticky note if someone thinks a mitigating action should be preventative action (or vice versa). All that's left to do now is to get it all put into a spreadsheet as your risk register!
-
-**Doing this in-person?** Co-op member Doug Belshaw has had an article published on NewCo Shift about [how to run that session](https://shift.newco.co/2016/12/02/how-to-run-a-pre-mortem-brainstorm-to-spot-and-avoid-project-fails/), too!
